@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhdshamil-in
+- 👋 Hi, I’m Muhammed Shamil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
